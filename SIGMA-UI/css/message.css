@@ -1,0 +1,131 @@
+﻿.header {
+  background-color:#fafafa;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  border-bottom: 1px solid #eee;
+}
+.header .nav-search {
+  float: left;
+}
+.header .navser{
+  margin:5px 0 0 0;
+}
+.header .navser input {
+  width: 300px;
+}
+.header .nav{
+  float: left;
+  display: block;
+  margin: 0;
+}
+.header .nav li{
+  float: left;
+  display: block;
+  padding:5px 20px 5px 0;
+}
+.header .nav li a{
+  line-height: 30px;
+}
+.header .user{
+  margin-top:13px;
+}
+.clear {
+  clear: both;
+}
+li.actived a {
+  color:#005580;
+}
+/******************************
+           导航
+*****************************/
+
+div#footer{
+  position:relative;
+  bottom:0;
+  height:40px;
+  border-top:1px solid #EBEBEB;
+  overflow:hidden;	
+  margin-top:20px;  
+}
+div#footer ul{
+  position:relative;
+  float:right;
+}
+div#footer ul li{
+  display:block;
+  padding:10px;
+  position:relative;
+  float:right;
+}
+.photo {
+  width:60px;
+  height:60px;
+  float:left;
+}
+.photo img{
+  border-radius: 5px;
+}
+.note{
+  float:left;
+  width:80%;
+}
+.record{
+  float:left;
+  margin-top:10px;
+  width:80%;
+}
+.ymd-t{
+  color:gray;
+  clear:both;
+}
+.dt {
+  float:right;
+}
+
+.ver{
+  margin:0 5px;
+}
+
+.list{
+ border-top:1px solid #ddd;
+ margin-top:15px;
+ padding-top:10px;
+}
+
+
+.main{
+  min-height: 450px;
+  
+}
+.send a{
+  display:block;
+  color:white;
+  text-align:center;
+  font-size:15px;
+  line-height:40px;
+  width:60px;
+  height:40px;
+  background:#C03930;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

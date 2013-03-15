@@ -1,0 +1,107 @@
+﻿.header {
+  background-color:#fafafa;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  border-bottom: 1px solid #eee;
+}
+.nav-search {
+  float: left;
+}
+.navser{
+  margin:5px 0 0 0;
+}
+.navser input {
+  width: 300px;
+}
+.nav{
+  float: left;
+  display: block;
+  margin: 0;
+}
+.nav li{
+  float: left;
+  display: block;
+  padding:5px 20px 5px 0;
+}
+.nav li a{
+  line-height: 30px;
+}
+.user{
+  margin-top:13px;
+}
+.clear {
+  clear: both;
+}
+li.actived a {
+  color:#005580;
+}
+
+/******************************
+           导航
+*****************************/
+
+div#footer{
+  position:relative;
+  bottom:0;
+  height:40px;
+  border-top:1px solid #EBEBEB;
+  overflow:hidden;
+}
+div#footer ul{
+  position:relative;
+  float:right;
+}
+div#footer ul li{
+  display:block;
+  padding:10px;
+  position:relative;
+  float:right;
+}
+
+
+
+.book-list{
+  float: left;
+}
+.list {
+  float: left;
+  margin-bottom: 30px;
+  height: 340px;
+  overflow: hidden;
+}
+.list ul {
+  display: block;
+  float: left;
+  margin: 0;
+}
+.list ul li {
+  display: block;
+  float: left;
+  width: 100px;
+  height: 150px;
+  margin-right: 25px;
+  margin-top: 10px;
+}
+
+
+.book-rank {
+  padding-top: 2px;
+  margin-top: 5px;
+}
+.book-rank ul{
+  display: block;
+  margin: 0;
+  border-top: 1px solid #eee;
+  margin-top: 10px;
+}
+.book-rank ul li {
+  display: block;
+  border-bottom: 1px solid #eee;
+  height: 35px;
+  line-height: 35px;
+}
+.book-rank ul li span {
+  width: 20px;
+  margin-right: 5px;
+}

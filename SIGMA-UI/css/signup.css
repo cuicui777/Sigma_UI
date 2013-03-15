@@ -1,0 +1,35 @@
+﻿body{
+  background:#EAFFFF;
+}
+span{
+  font-size: 17px;
+  line-height: 30px;
+}
+div.main{
+  margin:5% auto;
+  padding:15px;
+}
+.controls-in{
+  margin-top:5px;;
+}
+.submit{
+  background:#C03930;
+  width:50px;
+  height:30px;
+  color:white;
+  border:1px solid #C03930;
+  border-radius:5px;
+  padding:3px;
+}
+.loginkeeping{
+  margin-left:50px;
+  margin-top:5px;
+}
+.logo{
+  width:530px;
+  float:left;
+}
+.login{
+  float:left;
+  margin-top:50px;
+}

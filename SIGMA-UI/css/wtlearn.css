@@ -1,0 +1,120 @@
+﻿.navtop{
+  padding-top: 10px;
+  border-bottom: 1px dashed #ddd;
+  margin-bottom: 20px;
+}
+.nav-search {
+  float: left;
+}
+.navser{
+  margin:5px 0 0 0;
+}
+.navser input {
+  width: 300px;
+}
+.nav{
+  float: left;
+  display: block;
+  margin: 0;
+}
+.nav li{
+  float: left;
+  display: block;
+  padding:5px 20px 5px 0;
+}
+.nav li a{
+  line-height: 30px;
+}
+.user{
+  margin-top:13px;
+}
+.clear {
+  clear: both;
+}
+
+/******************************
+           ĺŻźčŞ
+*****************************/
+
+div#footer{
+  position:relative;
+  bottom:0;
+  height:40px;
+  border-top:1px solid #EBEBEB;
+  overflow:hidden;		
+}
+div#footer ul{
+  position:relative;
+  float:right;
+}
+div#footer ul li{
+  display:block;
+  padding:10px;
+  position:relative;
+  float:right;
+}
+/**********************
+***********************/
+
+.title {
+  font-size: 20px;
+  line-height: 30px;
+}
+.want {
+  margin-top:30px;
+  width:88%;
+}
+
+.more {
+  background-color: #eee;
+  font-size: 16px;
+  width: 100%;
+  height: 40px;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.more a {
+  display: block;
+  width: 100%;
+  background: #eee;
+  text-align: center;
+  line-height: 40px;
+}
+
+.more a:hover{
+  display: block;
+  width: 100%;
+  background: #e5e5e5;
+  text-align: center;
+  line-height: 40px;
+}
+/******************************
+           aside
+*******************************/
+div.action a{
+  display:block;
+  color:white;
+  background:#c03930;
+  text-align:center;
+  width:180px;
+  height:40px;
+  line-height:40px;
+
+}
+
+.seek {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.aside a {
+  line-height: 30px;
+}
+
+.group {
+  margin-top: 30px;
+  padding-top: 10px;
+}
+
+

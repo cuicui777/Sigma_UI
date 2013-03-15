@@ -1,0 +1,189 @@
+﻿.navtop{
+  padding-top: 10px;
+  border-bottom: 1px dashed #ddd;
+  margin-bottom: 20px;
+}
+.navser{
+  margin:5px 0 0 0;
+}
+.navser input {
+  width: 310px;
+}
+.clear{
+  clear: both;
+}
+.nav{
+  float: left;
+  display: block;
+  margin: 0;
+}
+.nav li{
+  float: left;
+  display: block;
+  padding:5px 20px 5px 0;
+}
+.nav li a{
+  line-height: 30px;
+}
+.user{
+  margin-top:13px;
+}
+
+/******************************
+           ĺŻźčŞ
+*****************************/
+
+div#footer{
+  position:relative;
+  bottom:0;
+  height:40px;
+  border-top:1px solid #EBEBEB;
+  overflow:hidden;		
+}
+div#footer ul{
+  position:relative;
+  float:right;
+}
+div#footer ul li{
+  display:block;
+  padding:10px;
+  position:relative;
+  float:right;
+}
+/**********************
+***********************/
+
+.title {
+  font-size: 20px;
+  line-height: 30px;
+  width:100%;
+  float:left;
+}
+.head {
+  float:left;
+}
+ .pic {
+  float:left;
+  width:250px;
+  height:250px;
+  overflow:hidden;
+  margin-right:10px;
+}
+.intro {
+  float:left;
+  width:65%;
+  height:135px;
+}
+
+.know {
+  float:left;
+  margin-left:20px;
+
+}
+
+.learn {
+  float:left;
+
+}
+.know a{
+  background:#c03930;
+  display:block;
+  color:white;
+  font-size:16px;
+  width:70px;
+  line-height:30px;
+  text-align:center;
+}
+
+.learn a{
+  background:#c03930;
+  display:block;
+  color:white;
+  font-size:16px;
+  width:70px;
+  line-height:30px;
+  text-align:center;
+}
+.item-list ul {
+  float:left;
+  margin:0;
+  padding-top:20px;
+}
+.item-list li{
+  display:block;
+  float:left;
+  width:100%;
+  margin-bottom:35px;
+}
+.photo {
+  float:left;
+  margin-right:10px;
+}
+.info {
+  float:left;
+}
+.info p{
+  float:left;
+  width:100%;
+}
+.user-info {
+  float:left;
+}
+.time {
+  float:left;
+  color:#999;
+}
+.time a{
+  margin-left:15px;
+}
+.more {
+  background-color: #eee;
+  font-size: 16px;
+  width: 100%;
+  height: 40px;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.more a {
+  display: block;
+  width: 100%;
+  background: #eee;
+  text-align: center;
+  line-height: 40px;
+}
+
+/******************************
+           aside
+*******************************/
+.grasp {
+  float: left;
+  margin:40px 0 25px 0;
+}
+.peo ul {
+  display:block;
+  float:left;
+  margin:10px 0 10px 0;
+}
+.peo li{
+  display:block;
+  float:left;
+  margin-right:15px;
+  margin-bottom:20px;
+}
+.seek {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.aside a {
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.group {
+  margin-top: 30px;
+  padding-top: 10px;
+}
+
+

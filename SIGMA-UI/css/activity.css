@@ -1,0 +1,169 @@
+﻿.navtop{
+  padding-top: 10px;
+  border-bottom: 1px dashed #ddd;
+  margin-bottom: 20px;
+}
+.navser{
+  margin:5px 0 0 0;
+}
+.navser input {
+  width: 310px;
+}
+.clear{
+  clear: both;
+}
+.nav{
+  float: left;
+  display: block;
+  margin: 0;
+}
+.nav li{
+  float: left;
+  display: block;
+  padding:5px 20px 5px 0;
+}
+.nav li a{
+  line-height: 30px;
+}
+.user{
+  margin-top:13px;
+}
+
+/******************************
+        导航
+*****************************/
+
+div#footer{
+  position:relative;
+  bottom:0;
+  height:40px;
+  border-top:1px solid #EBEBEB;	
+}
+div#footer ul{
+  position:relative;
+  float:right;
+}
+div#footer ul li{
+  display:block;
+  padding:10px;
+  position:relative;
+  float:right;
+}
+/******************************
+     main
+*****************************/
+.intro{
+  margin-top:10px;
+  float:left;
+} 
+.pic{
+  width:250px;
+  overflow:hidden;
+  float:left;
+  margin-right:15px;
+}
+.detail{
+  float:left;
+}
+
+.title {
+  font-size:20px;
+}
+.d-t{
+  margin-top:10px;
+}
+
+span {
+  line-height:30px;
+}
+
+.join{
+  margin-top:30px;;
+}
+.join a{
+  display:block;
+  color:white;
+  background:#c03930;
+  text-align:center;
+  width:80px;
+  height:40px;
+  line-height:40px;
+}
+
+.content {
+  float:left;
+  width:90%;
+  margin-top:10px;
+}
+.head {
+  display:block;
+  width:100%;
+  float:left;
+  margin-top:20px;
+}
+.item-list ul {
+  float:left;
+  margin:0;
+  padding-top:20px;
+}
+.item-list li{
+  display:block;
+  float:left;
+  width:100%;
+  margin-bottom:35px;
+}
+.photo {
+  float:left;
+  margin-right:10px;
+}
+.info {
+  float:left;
+}
+.info p{
+  float:left;
+  width:100%;
+}
+.user-info {
+  float:left;
+}
+.time {
+  float:left;
+  color:#999;
+}
+.time a{
+  margin-left:15px;
+}
+
+/***************
+****************/
+
+.peo ul {
+  display:block;
+  float:left;
+  margin:0;
+}
+.peo li{
+  display:block;
+  float:left;
+  margin-right:15px;
+  margin-bottom:20px;
+}
+.more {
+  background-color: #eee;
+  font-size: 16px;
+  width: 100%;
+  height: 40px;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.more a {
+  display: block;
+  width: 100%;
+  background: #eee;
+  text-align: center;
+  line-height: 40px;
+}
+
+
+

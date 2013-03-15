@@ -1,0 +1,133 @@
+﻿.header {
+  background-color:#fafafa;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  border-bottom: 1px solid #eee;
+}
+.nav-search {
+  float: left;
+}
+.navser{
+  margin:5px 0 0 0;
+}
+.navser input {
+  width: 300px;
+}
+.nav{
+  float: left;
+  display: block;
+  margin: 0;
+}
+.nav li{
+  float: left;
+  display: block;
+  padding:5px 20px 5px 0;
+}
+.nav li a{
+  line-height: 30px;
+}
+.user{
+  margin-top:13px;
+}
+.clear {
+  clear: both;
+}
+li.actived a {
+  color:#005580;
+}
+/******************************
+           导航
+*****************************/
+
+div#footer{
+  position:relative;
+  bottom:0;
+  height:40px;
+  border-top:1px solid #EBEBEB;
+  overflow:hidden;
+  margin-top:30px;
+}
+div#footer ul{
+  position:relative;
+  float:right;
+}
+div#footer ul li{
+  display:block;
+  padding:10px;
+  position:relative;
+  float:right;
+}
+/*==============*/
+
+.book-detail{
+  margin-bottom:30px;
+}
+div.book-pic{
+  width:120px;
+  float:left;
+}
+div.book-info{
+  line-height:25px;
+  float:left;
+}
+div.clear{
+  clear:both;
+}
+div.list{
+  border-top:1px solid #EBEBEB;
+  margin-top:5px;
+} 
+
+.borrow {
+  float: left;
+  padding-left: 50px;
+}
+.borrow span {
+  margin-left: 10px;
+}
+.borrow ul{
+  display:block;
+  float:left;
+  margin:0;
+}
+.borrow ul li{
+  float:left; 
+  display:block;
+  margin-left:10px;
+  margin-bottom:10px;
+  width: 50px;
+  height: 50px;
+}
+
+div.lend{
+  margin-top:15px;;
+}
+
+div.list{
+  margin-top:7px;
+}
+
+.item-list ul{
+  display:block;
+  margin:0;
+  padding:0;
+}
+.item-list ul li{
+  display:block;
+  width:70%;
+  float:left
+}
+div.pic{
+  width:60px;
+  float:left;
+}
+
+
+div.info{
+  margin-top:10px;
+}
+
+.sel{
+  padding-left:20px;
+}

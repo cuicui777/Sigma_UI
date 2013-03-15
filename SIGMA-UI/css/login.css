@@ -1,0 +1,76 @@
+body{
+  background:#EAFFFF;
+}
+
+div.main{
+  margin:5% auto;
+  padding:15px;
+}
+.controls-in{
+  margin-top:5px;;
+}
+.submit{
+  background:#C03930;
+  width:50px;
+  height:30px;
+  color:white;
+  border:1px solid #C03930;
+  border-radius:5px;
+  padding:3px;
+}
+.loginkeeping{
+  margin-left:50px;
+  margin-top:5px;
+}
+.logo{
+  width:530px;
+  float:left;
+}
+.login{
+  float:left;
+  margin-top:50px;
+}
+/*---bottom---*/
+.buttom{
+  background:#38AFAE;
+  width:100%;
+  -webkit-box-shadow: inset 0px 0px 4px #666;
+  box-shadow: inset 0px 0px 4px #666;
+}
+.row{
+  margin:50px 0 0 0;
+}
+.footer{
+  width:700px;
+  margin:10px auto;
+}
+.footer ul{
+  display:block;
+  float:left;
+}
+.footer ul li{
+  display:block;
+  float:left;
+  margin:1px 30px;
+}
+
+ul li a{
+  color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,162 @@
+.header {
+  background-color:#fafafa;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  border-bottom: 1px solid #eee;
+}
+.nav-search {
+  float: left;
+}
+.navser{
+  margin:5px 0 0 0;
+}
+.navser input {
+  width: 300px;
+}
+.nav{
+  float: left;
+  display: block;
+  margin: 0;
+}
+.nav li{
+  float: left;
+  display: block;
+  padding:5px 20px 5px 0;
+}
+.nav li a{
+  line-height: 30px;
+}
+.user{
+  margin-top:13px;
+}
+.clear {
+  clear: both;
+}
+li.actived a {
+  color:#005580;
+}
+/******************************
+           导航
+*****************************/
+
+div#footer{
+  position:relative;
+  bottom:0;
+  height:40px;
+  border-top:1px solid #EBEBEB;	
+}
+div#footer ul{
+  position:relative;
+  float:right;
+}
+div#footer ul li{
+  display:block;
+  padding:10px;
+  position:relative;
+  float:right;
+}
+
+
+.book-pic{
+  width:120px;
+  float:left;
+}
+.book-info{
+  line-height:25px;
+  float:left;
+}
+
+.list{
+  border-top:1px solid #EBEBEB;
+}
+
+.borrow {
+   float: left;
+   padding-left: 50px;
+   margin-bottom: 20px;
+}
+.borrow ul{
+  display:block;
+  float:left;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+.borrow ul li{
+  float:left; 
+  display:block;
+  margin-left:10px;
+  margin-bottom:10px;
+  width: 50px;
+  height: 50px;
+}
+.borrow span{
+  float: left;
+  margin-left: 10px;
+}
+
+
+
+
+
+
+.lend{
+  margin-top:30px;;
+}
+
+.list{
+  margin-top:7px;
+}
+.select{
+  margin-top:5px;
+  margin-bottom:10px;
+}
+
+.item-list ul{
+  display:block;
+  margin:0;
+  padding:0;
+}
+.item-list ul li{
+  display:block;
+  width:770px;
+  float:left
+}
+div.pic{
+width:60px;
+float:left;
+}
+
+div.info{
+  margin-top:10px;
+}
+
+.want{
+  padding-left:10px;
+}
+.comment{
+  margin-top:30px;
+  margin-bottom:20px;
+}
+.article{
+  margin-top:15px;
+}
+.main {
+  min-height: 550px;
+}
+
+
+
+.szulib {
+  margin-left: 60px;
+}
+.szlib{
+  margin-left: 60px;
+  margin-top: 20px;
+}
+
+
+
+
+

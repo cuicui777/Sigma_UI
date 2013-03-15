@@ -1,0 +1,36 @@
+﻿div#footer{
+  width:100%;
+  position:relative;
+  bottom:0;
+  height:40px;
+  border-top:1px solid #EBEBEB;
+  overflow:hidden;		
+}
+div#footer ul{
+  position:relative;
+  float:right;
+}
+div#footer ul li{
+  display:block;
+  padding:10px;
+  position:relative;
+  float:right;
+}
+
+.article {
+  text-indent:2em;
+  margin-bottom:15px;
+}
+.title{
+  background:#EAFFFF;
+  width:100%;
+  height:30px;
+  line-height:30px;
+  font-size:16px;
+  color:#38AFAE;
+  margin-bottom:10px;
+}
+
+.info{
+  margin-bottom:20px;
+}

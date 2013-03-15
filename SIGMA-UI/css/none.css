@@ -1,0 +1,79 @@
+﻿.header {
+  background-color:#fafafa;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  border-bottom: 1px solid #eee;
+}
+.header .nav-search {
+  float: left;
+}
+.header .navser{
+  margin:5px 0 0 0;
+}
+.header .navser input {
+  width: 300px;
+}
+.header .nav{
+  float: left;
+  display: block;
+  margin: 0;
+}
+.header .nav li{
+  float: left;
+  display: block;
+  padding:5px 20px 5px 0;
+}
+.header .nav li a{
+  line-height: 30px;
+}
+.header .user{
+  margin-top:13px;
+}
+.clear {
+  clear: both;
+}
+li.actived a {
+  color:#005580;
+}
+/******************************
+           导航
+*****************************/
+
+div#footer{
+  position:relative;
+  bottom:0;
+  height:40px;
+  border-top:1px solid #EBEBEB;
+  overflow:hidden;
+  margin-top:450px;  
+}
+div#footer ul{
+  position:relative;
+  float:right;
+}
+div#footer ul li{
+  display:block;
+  padding:10px;
+  position:relative;
+  float:right;
+}
+
+.error{
+  margin-top:30px;
+}
+
+.error p{
+  font-size:16px;
+}
+
+.creat a{
+  display:block;
+  font-size:18px;
+  line-height:50px;
+  color:white;
+  background:#c03930;
+  text-align:center;
+  width:180px;
+  height:50px;
+}

@@ -1,0 +1,164 @@
+.header {
+  background-color:#fafafa;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  border-bottom: 1px solid #eee;
+}
+.nav-search {
+  float: left;
+}
+.navser{
+  margin:5px 0 0 0;
+}
+.navser input {
+  width: 300px;
+}
+.nav{
+  float: left;
+  display: block;
+  margin: 0;
+}
+.nav li{
+  float: left;
+  display: block;
+  padding:5px 20px 5px 0;
+}
+.nav li a{
+  line-height: 30px;
+}
+.user{
+  margin-top:13px;
+}
+.clear {
+  clear: both;
+}
+li.actived a {
+  color:#005580;
+}
+/******************************
+           导航
+*****************************/
+
+div#footer{
+  position:relative;
+  bottom:0;
+  height:40px;
+  border-top:1px solid #EBEBEB;
+  overflow:hidden;	
+  margin-top:20px;  
+}
+div#footer ul{
+  position:relative;
+  float:right;
+}
+div#footer ul li{
+  display:block;
+  padding:10px;
+  position:relative;
+  float:right;
+}
+.clear{
+  clear:both;
+}
+
+
+/**************
+    aside
+**************/
+
+div.header{
+  width:100%;
+  margin-bottom:30px;
+}
+.personal{
+  padding-bottom:15px;
+}
+.photo{
+  width:300px;
+  height:300px;
+  overflow:hidden;
+}
+.name{
+  font-size:20px;
+  font-weight:600;
+  line-height:33px;
+}
+.per-info{
+  width:100%;
+  margin-top:5px;
+  float:left;
+  border-top:1px solid #ddd;
+  border-bottom:1px solid #ddd;
+}
+.per-info ul{
+  float:left;
+  margin:0;
+}
+.per-info .ff{
+  display:block;
+  float:left;
+  padding:10px 10px 10px 0;
+  color:#38AFAE;
+}
+.focus{
+  padding:10px;
+}
+.per-info span{
+  width: 100%;
+}
+.per-info a{
+  color:#38AFAE;
+  font-size: 16px;
+  font-weight: 588;
+}
+.per-info a:hover{
+  color:#08c;
+}
+.note{
+  width: 90%;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+.act{
+  margin-top:15px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+}
+
+/************
+  #end  aside
+*************/
+
+
+/************
+ main
+*************/
+div.book{
+  margin-bottom:30px;
+}
+.book-list{
+  height:200px;
+  overflow:hidden;
+  margin-bottom:15px;
+}
+
+
+.book-list ul{
+  display:block;
+  float:left;
+  margin:0;
+}
+
+.book-list ul li{
+  display:block;
+  float:left;
+  margin-top:15px;
+  margin-right:25px;
+  margin-bottom:20px;
+  width: 100px;
+  height:150px;
+  
+}
+
+

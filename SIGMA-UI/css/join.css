@@ -1,0 +1,38 @@
+﻿div#footer{
+  width:100%;
+  position:relative;
+  bottom:0;
+  height:40px;
+  border-top:1px solid #EBEBEB;
+  overflow:hidden;		
+}
+div#footer ul{
+  position:relative;
+  float:right;
+}
+div#footer ul li{
+  display:block;
+  padding:10px;
+  position:relative;
+  float:right;
+}
+
+.title{
+  background:#EAFFFF;
+  width:100%;
+  height:30px;
+  line-height:30px;
+  font-size:16px;
+  color:#38AFAE;
+  margin-bottom:10px;
+}
+.intro{
+  margin-bottom:10px;
+}
+.des{
+  margin-top:10px;
+  margin-bottom:50px;
+}
+.row{
+  min-height:550px;
+}

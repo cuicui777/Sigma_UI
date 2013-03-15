@@ -1,0 +1,32 @@
+﻿body{
+  background:#EAFFFF;
+}
+p{
+  font-size: 17px;
+  line-height: 30px;
+}
+span{
+  font-size: 17px;
+}
+div.main{
+  margin:5% auto;
+  padding:15px;
+
+}
+.logo{
+  width:530px;
+  float:left;
+}
+.login{
+  float:left;
+  margin-top:50px;
+}
+.submit{
+  background:#C03930;
+  width:150px;
+  height:30px;
+  color:white;
+  border:1px solid #C03939;
+  border-radius:5px;
+  padding:3px;
+}

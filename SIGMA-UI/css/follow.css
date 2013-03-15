@@ -1,0 +1,116 @@
+﻿.header {
+  background-color:#fafafa;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  border-bottom: 1px solid #eee;
+}
+.header .nav-search {
+  float: left;
+}
+.header .navser{
+  margin:5px 0 0 0;
+}
+.header .navser input {
+  width: 300px;
+}
+.header .nav{
+  float: left;
+  display: block;
+  margin: 0;
+}
+.header .nav li{
+  float: left;
+  display: block;
+  padding:5px 20px 5px 0;
+}
+.header .nav li a{
+  line-height: 30px;
+}
+.header .user{
+  margin-top:13px;
+}
+.clear {
+  clear: both;
+}
+li.actived a {
+  color:#005580;
+}
+
+/****************************
+           导航
+*****************************/
+.main{
+  min-height:450px;
+}
+
+div#footer{
+  position:relative;
+  bottom:0;
+  height:40px;
+  border-top:1px solid #EBEBEB;
+  overflow:hidden;	
+  margin-top:50px;  
+}
+div#footer ul{
+  position:relative;
+  float:right;
+}
+div#footer ul li{
+  display:block;
+  padding:10px;
+  position:relative;
+  float:right;
+}
+/**************************
+***************************/
+.friend{
+  float:left;
+  padding-top:20px;
+  margin-top:20px;
+  border-top:1px solid #ddd;
+  width:100%;
+  
+}
+.friend img{
+  float:left;
+  padding-right:10px;
+  height: 50px;
+}
+.info{
+  float:left;
+  width:80%;
+}
+.info p{
+  color: #333;
+}
+.name{
+  display:block;
+  font-size:17px;
+  float:left;
+  width:100%;
+  margin-bottom:5px;
+}
+.friend{
+  float:left
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

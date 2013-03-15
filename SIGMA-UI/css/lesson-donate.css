@@ -1,0 +1,117 @@
+﻿.header {
+  background-color:#fafafa;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  border-bottom: 1px solid #eee;
+}
+.nav-search {
+  float: left;
+}
+.navser{
+  margin:5px 0 0 0;
+}
+.navser input {
+  width: 300px;
+}
+.nav{
+  float: left;
+  display: block;
+  margin: 0;
+}
+.nav li{
+  float: left;
+  display: block;
+  padding:5px 20px 5px 0;
+}
+.nav li a{
+  line-height: 30px;
+}
+.user{
+  margin-top:13px;
+}
+.clear {
+  clear: both;
+}
+li.actived a {
+  color:#005580;
+}
+/******************************
+           导航
+*****************************/
+
+div#footer{
+  position:relative;
+  bottom:0;
+  height:40px;
+  border-top:1px solid #EBEBEB;
+  overflow:hidden;		
+}
+div#footer ul{
+  position:relative;
+  float:right;
+}
+div#footer ul li{
+  display:block;
+  padding:10px;
+  position:relative;
+  float:right;
+}
+
+.book-pic{
+  width:120px;
+  float:left;
+}
+.book-info{
+  line-height:25px;
+  float:left;
+}
+.lend {
+  margin-bottom: 50px;
+}
+
+.note{
+  position:relative;
+  border:1px solid #DDD;
+  margin-top:10px;
+  padding:5px;
+  height:110px;
+  margin-bottom:30px;
+  background-color:#f7f7f9;
+}
+.note span{
+  background:#f7f7f9 url(../img/bubble.png) no-repeat scroll right;
+  position:absolute;
+  height:8px;
+  width:13px;
+  top:-8px;
+  left:25px;
+}
+
+.nt{
+  font-size:18px;
+}
+
+.content{
+  margin-bottom:30px;
+}
+
+.book-detail{
+  margin-bottom:30px;
+  padding:3px;
+}
+
+.book-more {
+  padding-left: 70px;
+}
+.aside ul {
+  display: block;
+  margin: 0;
+}
+.aside ul li{
+  display: block;
+  width: 100px;
+  height: 150px;
+  margin-top: 10px;
+}
+
