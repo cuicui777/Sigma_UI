@@ -1,33 +1,33 @@
 ﻿.header {
-  background-color:white;
+  background-color:#fafafa;
   width: 100%;
   margin-bottom: 20px;
   padding-top: 5px;
-  border-bottom: 1px solid #CFCACA;
+  border-bottom: 1px solid #eee;
 }
-.header .nav-search {
+.nav-search {
   float: left;
 }
-.header .navser{
+.navser{
   margin:5px 0 0 0;
 }
-.header .navser input {
+.navser input {
   width: 300px;
 }
-.header .nav{
+.nav{
   float: left;
   display: block;
   margin: 0;
 }
-.header .nav li{
+.nav li{
   float: left;
   display: block;
   padding:5px 20px 5px 0;
 }
-.header .nav li a{
+.nav li a{
   line-height: 30px;
 }
-.header .user{
+.user{
   margin-top:13px;
 }
 .clear {
@@ -36,6 +36,7 @@
 li.actived a {
   color:#005580;
 }
+
 
 /******************************
            导航

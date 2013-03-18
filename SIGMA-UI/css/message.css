@@ -91,6 +91,8 @@ div#footer ul li{
  border-top:1px solid #ddd;
  margin-top:15px;
  padding-top:10px;
+ overflow: hidden;
+ zoom:1;
 }
 
 

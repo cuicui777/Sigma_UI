@@ -22,11 +22,19 @@ div.main{
   margin-top:50px;
 }
 .submit{
+  display: block;
+  line-height: 30px;
+  text-align: center;
   background:#C03930;
   width:150px;
   height:30px;
   color:white;
   border:1px solid #C03939;
   border-radius:5px;
-  padding:3px;
+}
+.submit:hover {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+  background: #D14836;
 }

@@ -75,18 +75,15 @@ div.header{
   padding-bottom:15px;
 }
 .photo{
-  width:300px;
-  height:300px;
   overflow:hidden;
 }
-.name{
-  font-size:20px;
-  font-weight:600;
-  line-height:33px;
+.photo img {
+  width: 350px;
+  height: 350px;
 }
 .per-info{
   margin-top:5px;;
-  width:90%;
+  width:100%;
   float:left;
   border-top:1px solid #ddd;
   border-bottom:1px solid #ddd;
